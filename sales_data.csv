@@ -1,0 +1,7 @@
+order_id,order_date,product,category,price,quantity,customer_id
+1,2023-10-01,Laptop,Electronics,999.99,1,CUST001
+2,2023-10-02,Headphones,Electronics,49.99,2,CUST002
+3,2023-10-02,Book,Books,19.99,1,CUST003
+4,2023-10-03,Phone,Electronics,,1,CUST004
+5,2023-10-04,Tablet,Electronics,299.99,0,CUST005
+6,2023-10-05,Pen,Stationery,1.99,10,CUST006
